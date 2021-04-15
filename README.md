@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hasanjavedqa
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ... GIT
+- 🌱 I’m currently learning ... GIT & Java
 - 💞️ I’m looking to collaborate on ... Projects 
 - 📫 How to reach me ... hasanjaved2017@outlook.com
 
